@@ -12,6 +12,7 @@
   "dependencies": {
     "@prisma/client": "^6.1.0",
     "express": "^4.21.2",
+    "petshop-prisma-api": "file:",
     "prisma": "^6.1.0"
   },
   "devDependencies": {
